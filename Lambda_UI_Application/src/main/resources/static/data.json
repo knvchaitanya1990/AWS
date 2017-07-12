@@ -1,0 +1,79 @@
+{
+  "Items": [
+    {
+      "shortdescription": "samsung",
+      "price": 40000,
+      "name": "samsung",
+      "sku": "noks",
+      "longdescription": "samsung mobiles"
+    },
+    {
+      "shortdescription": "samsung",
+      "price": 40000,
+      "name": "samsung",
+      "sku": "no",
+      "longdescription": "samsung mobiles"
+    },
+    {
+      "shortdescription": "Nokia",
+      "price": "30000",
+      "name": "NOKIA",
+      "sku": "65645sam",
+      "longdescription": "Nokiamobiles"
+    },
+    {
+      "shortdescription": "CHAITU",
+      "price": 70000,
+      "name": "CHAITANYA",
+      "sku": "CHAITU003",
+      "longdescription": "CHAITNAYA mobiles"
+    },
+    {
+      "shortdescription": "samsung",
+      "price": 40000,
+      "name": "samsung",
+      "sku": "redmi",
+      "longdescription": "samsung mobiles"
+    },
+    {
+      "shortdescription": "abc",
+      "price": 10000,
+      "name": "abc",
+      "sku": "ABC9954",
+      "longdescription": "abc mobiles"
+    },
+    {
+      "shortdescription": "samsung",
+      "price": 40000,
+      "name": "samsung",
+      "sku": "SAMSUNG007",
+      "longdescription": "samsung mobiles"
+    },
+    {
+      "shortdescription": "apple ",
+      "price": "65000",
+      "name": "Apple",
+      "sku": "hy89564",
+      "longdescription": "long description"
+    },
+    {
+      "shortdescription": "black berry",
+      "price": 60000,
+      "name": "blck berry",
+      "sku": "berry003",
+      "longdescription": "black berry mobiles"
+    },
+    {
+      "shortdescription": "shortdescription",
+      "price": 54354,
+      "name": "MOTOROLA",
+      "sku": "SKU00743",
+      "longdescription": "longdescription"
+    }
+  ],
+  "Count": 10,
+  "ScannedCount": 10,
+  "LastEvaluatedKey": {
+    "sku": "SKU00743"
+  }
+}
